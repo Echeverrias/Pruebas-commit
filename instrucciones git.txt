@@ -4,7 +4,7 @@
 
 2. git add -all
 
-3. git remote  add origin https://nombreUsuario:password@github.com/RutJG/pruebasWebRenfe.git
+3. git remote  add origin https://Echeverrias:juanan555@github.com/Echeverrias/Pruebas-commit.git
 
 4. git commit -m "comentario"
 
